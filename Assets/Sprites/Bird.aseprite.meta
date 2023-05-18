@@ -105,7 +105,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638199276091482688
+  platformSettingsDirtyTick: 638200093388811224
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -409,26 +409,6 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 74, y: 44}
-  - name: Bird_Frame_14
-    originalName: 
-    pivot: {x: 0.4074074, y: 0}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 74
-      y: 84
-      width: 27
-      height: 32
-    spriteID: 1ebbcc724720ecc4e892b97fd31ea45b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 74, y: 84}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -550,14 +530,6 @@ ScriptedImporter:
         width: 27
         height: 32
       spriteId: 04ec0ff314e8ffd4499686ba7fba8afc
-    - name: Bird_Frame_14
-      frameIndex: 14
-      cellRect:
-        x: 5
-        y: 0
-        width: 27
-        height: 32
-      spriteId: 1ebbcc724720ecc4e892b97fd31ea45b
     linkedCells: []
     parentIndex: -1
   platformSettings:
