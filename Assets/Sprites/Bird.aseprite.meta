@@ -7,12 +7,22 @@ ScriptedImporter:
       type: UnityEngine:AnimationClip
       assembly: UnityEngine.AnimationModule
       name: Idle
-    second: {fileID: 7400000, guid: fa6593d381293814e88a29b40615c4ed, type: 2}
+    second: {fileID: 7400000, guid: 236a0a365e885b14f91f50994c59f913, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Jump
+    second: {fileID: 7400000, guid: 3cb63c40301f6e14ea2164c1f62158dc, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Reverse Jump
+    second: {fileID: 7400000, guid: dbef4dd78d6c2824ab343368f245f4e5, type: 2}
   - first:
       type: UnityEngine:AnimationClip
       assembly: UnityEngine.AnimationModule
       name: Walking
-    second: {fileID: 7400000, guid: 0156587dfa33efa4e9c63bd365ca6514, type: 2}
+    second: {fileID: 7400000, guid: 2875f89d6c056c840862786edade5286, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -105,7 +115,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638200093388811224
+  platformSettingsDirtyTick: 638201000475755332
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -409,6 +419,166 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 74, y: 44}
+  - name: Bird_Frame_14
+    originalName: 
+    pivot: {x: 0.4074074, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 84
+      width: 27
+      height: 32
+    spriteID: 7e0141f0195bbce438100185a652e7ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 84}
+  - name: Bird_Frame_15
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 164
+      width: 27
+      height: 28
+    spriteID: 2a9b871342c79ff4096df49b357addb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 164}
+  - name: Bird_Frame_16
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 27
+      height: 25
+    spriteID: e33a4e62ae27ba84bb008ee824a17125
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 4}
+  - name: Bird_Frame_17
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 70
+      width: 27
+      height: 24
+    spriteID: 7f58cfc7a385fb9499ad5a09db45956c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 70}
+  - name: Bird_Frame_18
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 102
+      width: 27
+      height: 24
+    spriteID: d8d0acf4c7e2a6c4fbb9fc03152e0fc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 102}
+  - name: Bird_Frame_19
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 37
+      width: 27
+      height: 25
+    spriteID: e5eeba3ecda72e94591ebac60bee5b78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 37}
+  - name: Bird_Frame_20
+    originalName: 
+    pivot: {x: 0.4074074, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 200
+      width: 27
+      height: 28
+    spriteID: fcd436ad09f3b764094c9b9818f958a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 200}
+  - name: Bird_Frame_21
+    originalName: 
+    pivot: {x: 0.4074074, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 124
+      width: 27
+      height: 32
+    spriteID: 4612e8bab14880d4b8d48bc8db9d4180
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 124}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -530,6 +700,70 @@ ScriptedImporter:
         width: 27
         height: 32
       spriteId: 04ec0ff314e8ffd4499686ba7fba8afc
+    - name: Bird_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 0
+        width: 27
+        height: 32
+      spriteId: 7e0141f0195bbce438100185a652e7ed
+    - name: Bird_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 4
+        width: 27
+        height: 28
+      spriteId: 2a9b871342c79ff4096df49b357addb9
+    - name: Bird_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 5
+        y: 7
+        width: 27
+        height: 25
+      spriteId: e33a4e62ae27ba84bb008ee824a17125
+    - name: Bird_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 5
+        y: 8
+        width: 27
+        height: 24
+      spriteId: 7f58cfc7a385fb9499ad5a09db45956c
+    - name: Bird_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 8
+        width: 27
+        height: 24
+      spriteId: d8d0acf4c7e2a6c4fbb9fc03152e0fc1
+    - name: Bird_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 7
+        width: 27
+        height: 25
+      spriteId: e5eeba3ecda72e94591ebac60bee5b78
+    - name: Bird_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 5
+        y: 4
+        width: 27
+        height: 28
+      spriteId: fcd436ad09f3b764094c9b9818f958a4
+    - name: Bird_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 0
+        width: 27
+        height: 32
+      spriteId: 4612e8bab14880d4b8d48bc8db9d4180
     linkedCells: []
     parentIndex: -1
   platformSettings:
