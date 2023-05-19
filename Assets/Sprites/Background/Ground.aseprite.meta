@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638200140424631087
+  platformSettingsDirtyTick: 638200964546698312
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -182,13 +182,13 @@ ScriptedImporter:
   spriteSheetImportData:
   - name: Ground_0
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 52
+      y: 100
       width: 32
       height: 16
     spriteID: 1030a14eaf1173243914b67c47a01b7b
@@ -202,13 +202,13 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: Ground_1
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 3
-      y: 28
+      y: 76
       width: 32
       height: 16
     spriteID: 19b56453a07e82946bf3a89d2320efb1
@@ -222,6 +222,166 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   - name: Ground_2
     originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 76
+      width: 32
+      height: 16
+    spriteID: a524d3f3eacac224d824cf6afc92aaff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 76
+      width: 32
+      height: 16
+    spriteID: 8f81933d212dfa649a0d3c4fcb0fab06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 32
+      height: 16
+    spriteID: bb5dafd6e8d03ad4baaec01d47668a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 52
+      width: 32
+      height: 16
+    spriteID: 3c9650d32e96da34485aab4d7e9145d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 52
+      width: 32
+      height: 16
+    spriteID: 3b24e21f13b485949bb86bda1a54ca09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 32
+      height: 16
+    spriteID: 972c0b10bf55ae440925f6085b37954b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 28
+      width: 32
+      height: 16
+    spriteID: 3387b7c3c5b356c4fbc4b5d162a2333d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 28
+      width: 32
+      height: 16
+    spriteID: f8e7665b04365ad4ebac99c047926ac4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_10
+    originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,7 +391,47 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 16
-    spriteID: a524d3f3eacac224d824cf6afc92aaff
+    spriteID: 68656dae8aec89146a6d0b97b5411a6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 4
+      width: 32
+      height: 16
+    spriteID: bbd8242d106d81f4ea87f154dea8e2b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  - name: Ground_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 32
+      height: 16
+    spriteID: df6ecb6868590854ab02a33ece76bb1b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -256,22 +456,102 @@ ScriptedImporter:
         width: 31
         height: 16
       spriteId: e6043a6b190e0cf43a6f7e4f31632be2
-    - name: Ground_Frame_1
-      frameIndex: 1
+    - name: Ground_Frame_4
+      frameIndex: 4
       cellRect:
         x: 0
         y: 0
         width: 32
         height: 16
       spriteId: 91e3d3bd8ed98bb4b97f4a986e7c8fcf
-    - name: Ground_Frame_2
-      frameIndex: 2
+    - name: Ground_Frame_8
+      frameIndex: 8
       cellRect:
         x: 0
         y: 0
         width: 31
         height: 16
       spriteId: bc9833ad431e46344a28a64ccbf893bc
+    - name: Ground_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 16
+      spriteId: a7002ad710da90f41ac3cd97df34d508
+    - name: Ground_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 16
+      spriteId: 3c6ee3124da6e73449d82dbaa934833e
+    - name: Ground_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 16
+      spriteId: b82880056ab06bf46b7c3436166c1df7
+    - name: Ground_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      spriteId: 9584ca70f5733014ba6894de8d284f47
+    - name: Ground_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      spriteId: 7946ae3e3d81ca34d8f80f36e018a5b7
+    - name: Ground_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      spriteId: f12b88a3cdf3ec748b2f7955f63ded53
+    - name: Ground_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 16
+      spriteId: edc756c2dfdc23b479682364a21e0a7f
+    - name: Ground_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 16
+      spriteId: 0ebe9019683406146b00eeb6b2a20139
+    - name: Ground_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 16
+      spriteId: d14dbfd6405a7e3449977af11c0385fd
+    - name: Ground_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 32
+        height: 16
+      spriteId: 7d869749a6cdcdd43a3c92eb00a2ece6
     linkedCells: []
     parentIndex: -1
   platformSettings:
